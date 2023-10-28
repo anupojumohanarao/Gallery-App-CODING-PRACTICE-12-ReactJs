@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+
+.main-button {
+  border-width: 0px;
+  opacity: 0.5;
+}
